@@ -10,6 +10,12 @@ then
   echo 'Missing curl. How did you even run this?'
   exit 1
 fi
+if ! command -v gpg &> /dev/null
+then
+  echo "Installing gpg"
+  apt update
+  apt install gpg -y
+fi
 echo Adding CyberSocOS key
 mkdir -p /usr/share/keyrings/
 curl -L https://apt.cybersoc.cf/key.gpg | gpg --dearmor > /usr/share/keyrings/cybersoc.gpg
