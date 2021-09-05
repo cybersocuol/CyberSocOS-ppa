@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sun, 05 Sep 2021 21:39:08 +0000
+MD5Sum:
+ 24d03bbf82287a9f40a212f0a69b6bd0              581 Packages
+ dbd18c1ab7a5fb6f5b3c2ef16a1825c7              413 Packages.gz
+ 5d2c4f2e2da99f0249dd7deac3c004f4               38 Release
+ fae68daa4d4ed9bed9da1d3ad3337e48             1170 Sources
+ d41d8cd98f00b204e9800998ecf8427e                0 scripts/Packages
+ 331f8a86ca028cfc213e969279d4ce6c               29 scripts/Packages.gz
+ 098751f260650952ac0f5bde1d623099             1576 scripts/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 scripts/Sources
+SHA1:
+ b1365bfb7fa617899e1730fa619dfa81f0810952              581 Packages
+ a083eb04c0831b1299aed2b5fcb74f7110fb0fb1              413 Packages.gz
+ 033469a8d67a7bea58f5a4f81e03a9ae4cc67a70               38 Release
+ f01e15be47f844a4a5f8c69e577fc1e1081d715e             1170 Sources
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 scripts/Packages
+ 4fd2a495c9ea4dc5319efdadc795ca321be5e5aa               29 scripts/Packages.gz
+ 196af696db49ed779a4a6467310d30ed5412cc9b             1576 scripts/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 scripts/Sources
+SHA256:
+ 1275f07a6d7204f589ace44f290cc1d72c4522d3aea015c9b1e3d35cddc0ac0a              581 Packages
+ 34cc084af200829701a524e8047016900e07bbfd64468b01f9ea651ba8224dbe              413 Packages.gz
+ 0cf9b713350763ed936cd24cef3be3f4e67b464f865eebba88f955383126879d               38 Release
+ bd0531f5ea11551be86ec7aafae32818ed9c9b7e34098cb7bf448acd6bb18798             1170 Sources
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 scripts/Packages
+ a7f92a2fe5cc79a73d9fd4c23decf51956f86b2fefdc09886c2c9a3b81d39ef8               29 scripts/Packages.gz
+ 72a3b1c8ea377b10adf548d3027a8e696a9e694503c8474446ce5bdef3d56b1a             1576 scripts/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 scripts/Sources
+SHA512:
+ ad1d327d6e87a58aa794d5c58538d1b11f145acba371e9ab240f737d76723e10ae4da866cf2ae891086313d01e598938dcc67057ea46b98d781400635a6a7df8              581 Packages
+ 398c296c2a59bdcddd1f0c0bd3ec5a837c568fd68a87979843b7eaa2ee53519f2894f06a16b0754eb9814f3f2d37c94894e613a018ab7c7f2e30af975ee7ed56              413 Packages.gz
+ eb3eea01bf8e02ee992616f19f10ce97b9bda2760664b09e816a3f095485dee3d15ae87f74bc7c23a837e9e6bf8c54c9055e4928625624d6e7426b21bbff91a6               38 Release
+ 210f2f4295d581aa6b57b8bc31dbb37895fab4304c0d88a6ae3f189487120edc2dbe552fd134a92a346bb99c6d54e928fbb1180d8202b980fb70331e430eea9e             1170 Sources
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 scripts/Packages
+ e6b7e2e170637446938eb9b24a7a1880390b262bf5cd601fa806e819a512263e390e2b43fd92656c71e79cac2fe3d6f17cff897b32eca50324268b08c0d0761a               29 scripts/Packages.gz
+ 895ad2d7a25e8f3f2c8f675943571ac9b84dbf5aabc98019e3a48943c6de2505cc3a9dfc42bcc39c186f312254ac3ed5ff6d40891a345a4e6b738996992725c7             1576 scripts/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 scripts/Sources
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERNoVCe2iBVtfMqti1KxAZDESO08FAmE1Ow0ACgkQ1KxAZDES
+O09S4g//auPbYbRIwrI8N6w5uGCEsBefARQI27aG9aj3OmxCx8+FY1ASRPWTaag1
+ADdKCQXPNr5xmvHSotdUWFXkaHCfK4wAYinQSmwQ1jrxZJGp1+6xHRjEEcJzuKH7
+IT7HemYoe+lriFgN3w/t2UtPDc3jkRU81i/lwsCt3S9If90gW10KReRAmFUTKoip
+3dFshUyJX0wVaLiUd/0u/p8jtC0XuYDl/F6/mPpjC10WHBTDs1HGvvSbR3RmHK4S
+aI/6RsxjQXLb9p8un9qiJvM2WTgzb41RrSHcQ08ZF2rNdoVfUjlelxc0vT8sp3KS
+AuF9Y1vjlCuMTirS8nWb/WIQzyce7Zn3gJWgjgiAnDBrSapKMwnTnf/favhXr3W4
+ez5VV68u8EzDwfi+u1+gt7MrOYDrxFSeZDh+XyP2uFA82+YfsniGUR9G5toso1qF
+o8iEcVblkcUVXmcSjW18Cv6QnG47UTwWoxL5NmNYyAf8cWFQu5C9qu5p2UFxpxGs
+xQp+Q9+UtkT/xeA9+HvfS/ugSLvN0Q+qGCQS6XabLWTS3j+sJ7h0EVgBNE58hlnH
+hknaVqWWwrNeKz6jNgyjcllVsUm0WZfxf6aTRzE441u76WwwFTXIiHFG+R1x3wFv
+bCHk2vQFg5l87H9nXF4/UjA+0jR1GUjOxLQoFZ2xERg6Pq1UaZk=
+=G56e
+-----END PGP SIGNATURE-----
