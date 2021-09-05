@@ -11,6 +11,6 @@ Rules-Requires-Root: no
 
 Package: cybersoc-all
 Architecture: all
-Depends: steghide, pwncat, openvpn, seclists, ferroxbuster, rlwrap, ${misc:Depends}
+Depends: steghide, pwncat, openvpn, seclists, feroxbuster, rlwrap, ${misc:Depends}
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>

@@ -1,14 +1,14 @@
 Package: cybersoc-all
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: all
 Maintainer: University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
 Installed-Size: 11
-Depends: steghide, pwncat, openvpn, seclists, ferroxbuster, rlwrap
-Filename: ./source/cybersoc-all_0.0.1-2_all.deb
+Depends: steghide, pwncat, openvpn, seclists, feroxbuster, rlwrap
+Filename: ./source/cybersoc-all_0.0.1-3_all.deb
 Size: 2672
-MD5sum: fdf0c900f6738397a44ed0a6128fbbfa
-SHA1: b9f2de7b132f451a4624209941140e56ff9858a3
-SHA256: f68c83536b228b3a866e9ff6285ebf02dc3367b41b4ed63a9198eaf0cbaf68d1
+MD5sum: a351d9b612ac71e6e87bd077f8414eb4
+SHA1: 164005b63d99958ecb811eae7e891e3658f3e37a
+SHA256: 551619b9dd67bb97c50f52ffb20893d4a28847b6abfc093f3c901088fb63e180
 Section: unknown
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>

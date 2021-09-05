@@ -1,6 +1,6 @@
  dpkg-buildpackage -rfakeroot -us -uc -ui
 dpkg-buildpackage: info: source package cybersoc-all
-dpkg-buildpackage: info: source version 0.0.1-2
+dpkg-buildpackage: info: source version 0.0.1-3
 dpkg-buildpackage: info: source distribution UNRELEASED
 dpkg-buildpackage: info: source changed by University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
  dpkg-source --before-build .
@@ -11,8 +11,8 @@ dh clean
  dpkg-source -b .
 dpkg-source: info: using source format '3.0 (quilt)'
 dpkg-source: info: building cybersoc-all using existing ./cybersoc-all_0.0.1.orig.tar.xz
-dpkg-source: info: building cybersoc-all in cybersoc-all_0.0.1-2.debian.tar.xz
-dpkg-source: info: building cybersoc-all in cybersoc-all_0.0.1-2.dsc
+dpkg-source: info: building cybersoc-all in cybersoc-all_0.0.1-3.debian.tar.xz
+dpkg-source: info: building cybersoc-all in cybersoc-all_0.0.1-3.dsc
  debian/rules binary
 dh binary
    dh_update_autotools_config
@@ -32,9 +32,9 @@ dh binary
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'cybersoc-all' in '../cybersoc-all_0.0.1-2_all.deb'.
+dpkg-deb: building package 'cybersoc-all' in '../cybersoc-all_0.0.1-3_all.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../cybersoc-all_0.0.1-2_amd64.changes
+ dpkg-genchanges  >../cybersoc-all_0.0.1-3_amd64.changes
 dpkg-genchanges: info: not including original source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: binary and diff upload (original source NOT included)
