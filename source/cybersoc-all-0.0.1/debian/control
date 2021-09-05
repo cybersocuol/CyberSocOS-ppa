@@ -1,0 +1,16 @@
+Source: cybersoc-all
+Section: unknown
+Priority: optional
+Maintainer: University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/cybersoc-all
+#Vcs-Git: https://salsa.debian.org/debian/cybersoc-all.git
+Rules-Requires-Root: no
+
+Package: cybersoc-all
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

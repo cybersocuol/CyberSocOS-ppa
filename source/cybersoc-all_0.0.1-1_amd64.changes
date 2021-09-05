@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sun, 05 Sep 2021 22:37:34 +0100
+Source: cybersoc-all
+Binary: cybersoc-all
+Architecture: source all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
+Changed-By: University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
+Description:
+ cybersoc-all - <insert up to 60 chars description>
+Changes:
+ cybersoc-all (0.0.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 8451cf229c2f10f861726b76bcadd6c1ba3807af 919 cybersoc-all_0.0.1-1.dsc
+ 90006e86c9fad770f20f3ae5e9bb62358f6797f1 168 cybersoc-all_0.0.1.orig.tar.xz
+ 45aab64407469b4604d52f76e60fd4fb5bbdb032 8692 cybersoc-all_0.0.1-1.debian.tar.xz
+ b144a75ef0aab60f712420fa22696f947aa3a7cf 2696 cybersoc-all_0.0.1-1_all.deb
+ d99122b4a0eca6baf6ae7909968db93b1799a9eb 5837 cybersoc-all_0.0.1-1_amd64.buildinfo
+Checksums-Sha256:
+ c654adbd6c510670b8e686ead10b0318122e6376c18699906e7816d7285e3eb0 919 cybersoc-all_0.0.1-1.dsc
+ 3c9163fff9b882e0f7b600e226864e57d89e5efd539cc2907f4aa7e44035c097 168 cybersoc-all_0.0.1.orig.tar.xz
+ 82978592c5bb8ddea32ae4dacf9819dfa841a3fa6349cece4198d306a066b5b2 8692 cybersoc-all_0.0.1-1.debian.tar.xz
+ 79cee4a72d4d067a9b9086f96841cbda99d594ca424cf5448ffe486997631151 2696 cybersoc-all_0.0.1-1_all.deb
+ 1e69d54d1f79b71e1f744a499da5267b6bcbbd33592d23d1569b4c974ce23376 5837 cybersoc-all_0.0.1-1_amd64.buildinfo
+Files:
+ ed089333e3f85f61095f339d6738fc3e 919 unknown optional cybersoc-all_0.0.1-1.dsc
+ 7e91ceffe12655e53b352692ec99fc0c 168 unknown optional cybersoc-all_0.0.1.orig.tar.xz
+ 7b3251d6c7a72c5063f4aaa19bc68d24 8692 unknown optional cybersoc-all_0.0.1-1.debian.tar.xz
+ 56c99f4e67077db18f5016001ab0c241 2696 unknown optional cybersoc-all_0.0.1-1_all.deb
+ 9ee3504b9ef6f69a888b714d69b00a1f 5837 unknown optional cybersoc-all_0.0.1-1_amd64.buildinfo

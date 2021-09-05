@@ -1,0 +1,16 @@
+Package: cybersoc-all
+Version: 0.0.1-1
+Architecture: all
+Maintainer: University of Liverpool Cybersecurity Society <cybersecurity@society.liverpoolguild.org>
+Installed-Size: 12
+Filename: ./source/cybersoc-all_0.0.1-1_all.deb
+Size: 2696
+MD5sum: 56c99f4e67077db18f5016001ab0c241
+SHA1: b144a75ef0aab60f712420fa22696f947aa3a7cf
+SHA256: 79cee4a72d4d067a9b9086f96841cbda99d594ca424cf5448ffe486997631151
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
