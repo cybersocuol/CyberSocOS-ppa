@@ -2,19 +2,19 @@ Format: 1.0
 Source: cybersoc-all
 Binary: cybersoc-all
 Architecture: all source
-Version: 0.0.1-1
+Version: 0.0.1-2
 Checksums-Md5:
- ed089333e3f85f61095f339d6738fc3e 919 cybersoc-all_0.0.1-1.dsc
- 56c99f4e67077db18f5016001ab0c241 2696 cybersoc-all_0.0.1-1_all.deb
+ 5f368ae1c871aab9232feedd0510f607 919 cybersoc-all_0.0.1-2.dsc
+ fdf0c900f6738397a44ed0a6128fbbfa 2672 cybersoc-all_0.0.1-2_all.deb
 Checksums-Sha1:
- 8451cf229c2f10f861726b76bcadd6c1ba3807af 919 cybersoc-all_0.0.1-1.dsc
- b144a75ef0aab60f712420fa22696f947aa3a7cf 2696 cybersoc-all_0.0.1-1_all.deb
+ a8079c307c4bc8ec314b6593d7703a92aa0060c7 919 cybersoc-all_0.0.1-2.dsc
+ b9f2de7b132f451a4624209941140e56ff9858a3 2672 cybersoc-all_0.0.1-2_all.deb
 Checksums-Sha256:
- c654adbd6c510670b8e686ead10b0318122e6376c18699906e7816d7285e3eb0 919 cybersoc-all_0.0.1-1.dsc
- 79cee4a72d4d067a9b9086f96841cbda99d594ca424cf5448ffe486997631151 2696 cybersoc-all_0.0.1-1_all.deb
+ f2c94205955b3aa2f5ece0277fbb3189e23f474e882778a0dda6a4c143f0ae00 919 cybersoc-all_0.0.1-2.dsc
+ f68c83536b228b3a866e9ff6285ebf02dc3367b41b4ed63a9198eaf0cbaf68d1 2672 cybersoc-all_0.0.1-2_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 05 Sep 2021 22:37:45 +0100
+Build-Date: Mon, 06 Sep 2021 00:26:43 +0100
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-configs
@@ -213,4 +213,4 @@ Environment:
  LC_NUMERIC="en_GB.UTF-8"
  LC_PAPER="en_GB.UTF-8"
  LC_TIME="en_GB.UTF-8"
- SOURCE_DATE_EPOCH="1630877854"
+ SOURCE_DATE_EPOCH="1630884385"
